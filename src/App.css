@@ -1,0 +1,12 @@
+/* src/App.css */
+.App {
+  text-align: center;
+}
+
+.App .content {
+  margin: 20px;
+}
+
+h2 {
+  color: #4caf50;
+}

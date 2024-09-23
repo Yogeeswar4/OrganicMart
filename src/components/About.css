@@ -1,0 +1,20 @@
+/* src/components/About.css */
+.about-page {
+    text-align: center;
+    padding: 20px;
+}
+
+.about-page h2 {
+    color: #4caf50;
+}
+
+.about-page p {
+    margin: 20px 0;
+    font-size: 1.2em;
+}
+
+.about-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
